@@ -1,6 +1,6 @@
 export default function Contact() {
 
   return (
-    <h1>Email: myapp@contact.com</h1>
+    <h1>Email : funkyDog@miukumaukau.com</h1>
   );
 }
